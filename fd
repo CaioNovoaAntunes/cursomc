@@ -1,0 +1,23 @@
+[33mcommit fb51e817df8c2bff80d647de520744f874030709[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: CaioNovoaAntunes <caio_novoa_antunes@mail.com>
+Date:   Wed Mar 31 02:03:55 2021 -0300
+
+    O banco de dados foi adicionado neste comitte
+
+[33mcommit cd2cbe344122fe89c6695b59a3a8beded4e2000f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: CaioNovoaAntunes <caio_novoa_antunes@mail.com>
+Date:   Wed Mar 31 01:13:33 2021 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit 03107e0095463dadb2793d7ce339158b4259a575[m
+Author: CaioNovoaAntunes <caio_novoa_antunes@mail.com>
+Date:   Wed Mar 31 00:19:25 2021 -0300
+
+    testando o Rest Testado
+
+[33mcommit 9c374821fa59a62c94a136805fea05639eddd7c1[m
+Author: CaioNovoaAntunes <caio_novoa_antunes@mail.com>
+Date:   Tue Mar 30 23:31:00 2021 -0300
+
+    first commit
